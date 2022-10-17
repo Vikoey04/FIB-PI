@@ -21,3 +21,6 @@ L'assignatura de Protocols d'Internet tracta com és l'arquitectura d'Internet, 
 - [Topic 4](/allslides/PI-Grau-PrTipo-Topic-4.pdf) Intra-domain Routing
 - [Topic 5](/allslides/PI-Grau-PrTipo-Topic-5.pdf) Corporate Networks revisited: VPN
 - [Topic 6](/allslides/PI-Grau-PrTipo-Topic-6.pdf) Application and Services
+
+### Laboratori
+- Quadern Laboratori [[PDF]](/laboratori-PI-Grau-v13.pdf)
